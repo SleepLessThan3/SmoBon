@@ -1,0 +1,9 @@
+name,species,level,hp_ev,attack_ev,defense_ev,sp_attack_ev,sp_defense_ev,speed_ev,nature,ability,move_list
+An Onion,Ivysaur,50,160,0,0,252,0,96,modest,overgrow,Energy_Ball/Headbutt/Growl/Toxic
+Salamander,Charmeleon,50,0,252,4,252,0,0,lonely,solar_power,Flamethrower/Dragon_Rage/Metal_Claw/Bite
+Turtle,Wartortle,50,104,0,188,0,216,0,sassy,torrent,Water_Pulse/Icy_Wind/Bite/Headbutt
+Not A Mouse,Pikachu,50,0,0,4,252,0,252,naive,static,Thunderbolt/Swift/Headbutt/Growl
+Big Chungus,Snorlax,50,188,0,104,0,216,0,careful,thick_fat,Headbutt/Shadow_Ball/Toxic/Water_Pulse
+Metang,Metang,50,252,0,48,0,208,0,careful,clear_body,Metal_Claw/Iron_Defense/Take_Down/Confusion
+Land Shark,Gabite,50,4,252,0,0,0,252,jolly,sand_veil,Dragon_Rage/Flamethrower/Headbutt/Metal_Claw
+Sleep's Glaceon,Glaceon,50,0,0,0,252,4,252,modest,snow_cloak,Ice_Beam/Shadow_Ball/Water_Pulse/Toxic

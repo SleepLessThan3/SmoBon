@@ -1,0 +1,19 @@
+COGS 18 Final Assignment: SMOBON
+
+Currently Implemented:
+    - You can now pick your Pokemon as well as the Pokemon you wish to fight against!
+    - Pokemon selection will display the Pokemon's summary
+    - Combat
+    - Status Conditions
+    - Stat changing moves
+    - Natures, EVs, and IVs all affect stats
+    
+In Progress:
+    -Auto battling
+
+Not Implemented:
+    - Abilities
+    - Weather
+    - Held Items
+    - Weird moves
+    - Graphics

@@ -1,0 +1,56 @@
+Pokemon Idea:
+    Different pokemon
+        Typing (Type matchups)
+        Stats (dont worry about IV/EV, just use base stats I guess) (maybe just EV and have max IV to make it like SMOGON?)
+        Moves
+            Elemental type
+            Status/Attacking move
+            Accuracy
+            Base Damage
+            Effects
+        Current Moveset
+        Possible Moves (level limits too?)
+    
+    Data Input
+        Use csv/txt files to input Pokemon/move data?
+        1 sheet for all moves, 1 sheet for all pokemon, imported into main
+        Use dictionaries to turn string > dictionary key
+    
+    Combat
+        Choose a move (prints a list of choices, 
+        Enemy chooses a move (use random.choice(moveset)?)
+        Check type matchups
+        Apply crit calc
+        Check speed (speed tie  determined with random.choice([poke1, poke2])?)
+        Print results, return results
+        Parse next move (have 19-24 in while loop (while(alive))?)
+
+RPG Idea:
+    Entity
+        Name
+        Class(Titles?)
+        Stats
+            STA(HP,PHY SKILL)
+            ATK(AD)
+            DEF
+            WIS(MP)
+            INT(MR AND AP)
+            DEX(SPD?)
+        Equipped Items
+    Entity>Player
+        Inventory
+    Entity>Monster
+        Loot Table
+            Drop %
+            Drop items
+    
+    Item
+        Name
+        Type (weapon, accessory, armor piece, etc)
+        Restrictions
+            Class
+            Stat
+        Stat Modifiers
+    
+    Data Input
+        

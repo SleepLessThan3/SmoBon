@@ -1,0 +1,25 @@
+name,element_type,category,base_power,base_accuracy,pp,effect,effect_chance
+Tackle,Normal,Physical,40,100,35,,
+Water_Pulse,Water,Special,60,100,20,status target confusion,20
+Flamethrower,Fire,Special,90,100,15,status target burn,10
+Energy_Ball,Grass,Special,90,100,10,stat target sp_defense -1,10
+Icy_Wind,Ice,Special,55,95,15,stat target speed -1,100
+Bite,Dark,Physical,60,100,25,status target flinch,30
+Growl,Normal,Status,-1,100,40,stat target attack -1,100
+Iron_Defense,Steel,Status,-1,-1,15,stat user defense +2,100
+Thunder_Wave,Electric,Status,0,90,20,status target paralysis,100
+Thunderbolt,Electric,Special,95,100,15,status target paralysis,10
+Toxic,Poison,Status,0,90,10,status target toxic,100
+Shadow_Ball,Ghost,Specal,80,100,15,stat target sp_defense -1,20
+Sand_Attack,Ground,Status,-1,100,15,stat target accuracy -1,100
+Swift,Normal,Special,60,-1,20,,
+Dragon_Rage,Dragon,Special,-1,100,10,damage target 40,100
+Headbutt,Normal,Physical,70,100,15,status target flinch,30
+Take_Down,Normal,Physical,90,85,20,status target recoil 25,100
+Metal_Claw,Steel,Physical,50,95,35,stat user attack +1,10
+Ice_Beam,Ice,Special,90,90,10,status target freeze,10
+Confusion,Psychic,Special,50,100,25,status target confusion,10
+Freeze,Normal,Status,0,100,25,status target freeze,100
+Burn,Normal,Status,0,100,25,status target burn,100
+Confuse,Normal,Status,0,100,25,status target confusion,100
+Splash, Normal, Physical, 0, 100, 100,,

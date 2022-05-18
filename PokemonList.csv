@@ -1,0 +1,9 @@
+name,element_type,hp,attack,defense,sp_attack,sp_defense,speed,ability_list,move_list
+Ivysaur,Grass/Poison,60,62,63,80,80,60,Overgrow/Chlorophyll,Tackle/Growl/Energy_Ball/Take_Down/Toxic/Headbutt
+Charmeleon,Fire,58,64,58,80,65,80,Blaze/Solar_Power,Flamethrower/Growl/Dragon_Rage/Metal_Claw/Headbutt/Toxic/Bite
+Wartortle,Water,59,63,80,65,80,58,Torrent/Rain_Dish,Tackle/Defense_Curl/Water_Pulse/Ice_Beam/Toxic/Icy_Wind/Bite
+Pikachu,Electric,35,55,30,50,40,90,Static/Lightning_Rod,Tackle/Thunderbolt/Growl/Swift/Toxic/Headbutt
+Snorlax,Normal,160,110,65,65,110,30,Immunity/Thick_Fat_Gluttony,Tackle/Defense_Curl/Toxic/Ice_Beam/Shadow_Ball/
+Metang,Steel/Psychic,60,75,100,55,80,50,Clear_Body/Light_Metal,Take_Down/Metal_Claw/Confusion/Toxic/Shadow_Ball/Iron_Defense/Headbutt
+Gabite,Dragon/Ground,68,90,65,50,55,82,Sand_Veil/Rough_Skin,Take_Down/Sand_Attack/Dragon_Rage/Toxic/Metal_Claw/Flamethrower
+Glaceon,Ice,65,60,110,130,95,65,Show_Cloak/Ice_Body,Tackle/Growl/Swift/Icy_Wind/Ice_Beam/Bite/Toxic/Shadow_Ball/Headbutt
