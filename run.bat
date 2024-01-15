@@ -1,3 +1,3 @@
 @ECHO OFF
-START python3 main.py
+START python main.py
 PAUSE
